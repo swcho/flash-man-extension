@@ -2,6 +2,7 @@
   "name": "flash-man-extension",
   "displayName": "flash-man-extension",
   "description": "Flash man VS Cdoe extension",
+  "repository": "https://github.com/swcho/flash-man-extension",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
@@ -10,7 +11,7 @@
     "Other"
   ],
   "activationEvents": [
-    "*"
+    "onStartupFinished"
   ],
   "main": "./dist/extension.js",
   "contributes": {
