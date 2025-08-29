@@ -1,0 +1,5 @@
+: 1756297683:0;npm i
+: 1756297695:0;npm run compile
+: 1756297712:0;npm run package
+: 1756298288:0;npx vsce package
+: 1756298579:0;exit
